@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ram Kumar
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning HTML,CSS and JavaScript
-- 💞️ I’m looking to work on interesting front end development projects
+- 👀 I’m interested in DataScience
+- 🌱 I’m currently learning Python,SQL
+- 💞️ I’m looking to work on interesting Data Science projects
 - 📫 How to reach me ramkumarsundareswaran@gmail.com
 
 <!---
